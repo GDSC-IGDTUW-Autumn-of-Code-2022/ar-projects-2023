@@ -4,6 +4,9 @@
   <img src= "https://user-images.githubusercontent.com/79600026/200431759-0d54eccc-379f-43b4-a867-7019a53e7bab.jpg" alt="10" width="350"/>
 </p>
 
+A repository for showcasing your AR/Game Dev Projects for the GDSC IGDTUW Autumn of Code program. <br/> 
+You can add any AR/Game Dev project you have worked on. Create an issue describing the project you want to contribute, wait for it to get assigned to you and contribute!
+
 
 ## CONTRIBUTING TO THIS PROJECT
 
