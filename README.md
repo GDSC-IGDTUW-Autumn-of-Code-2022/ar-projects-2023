@@ -1,12 +1,13 @@
 # ar-projects-2023
 
+# AR FILTERS
+
 <p align="center">
-  <img src= "https://user-images.githubusercontent.com/79600026/200431759-0d54eccc-379f-43b4-a867-7019a53e7bab.jpg" alt="10" width="350"/>
-</p>
+  ![image](https://github.com/GDSC-IGDTUW-Autumn-of-Code-2022/ar-projects-2023/assets/89780894/7f05d333-29f7-4950-8ade-342ac1af9c49)
 
-A repository for showcasing your AR/Game Dev Projects for the GDSC IGDTUW Autumn of Code program. <br/> 
-You can add any AR/Game Dev project you have worked on. Create an issue describing the project you want to contribute, wait for it to get assigned to you and contribute!
+</p> 
 
+A repository for submitting your AR/Game Dev projects for the GDSC IGDTUW Snowscript Winter of Code programme.
 
 ## CONTRIBUTING TO THIS PROJECT
 
@@ -22,15 +23,15 @@ You can add any AR/Game Dev project you have worked on. Create an issue describi
 - Please mention your full name on your GitHub handle to be eligible for prizes.
 
 
-You can take up any of the existing issues or create a new to to contribute any of your own projects!<br/> 
-Contribution period ends: 22 December 2022
+You can take up any of the existing issues or create a new issue to to contribute any of your own filter links and descriptions!<br/> 
+Contribution period ends: 26 January 2024
 
 
 ## How to get started?
 
 You can refer to the following resources on Git and Github to get started and contact our Project Mentors via [Discord](https://discord.gg/xTNC4MGB) if you have any doubts.
 
-- [Learn how to contribute to GDSC IGDTUW Autumn of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
+- [Learn how to contribute to GDSC IGDTUW Snowscript Winter of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
 - [Go through this repository to how to contribute learn step-by-step](https://github.com/firstcontributions/first-contributions)
 - [Watch this video to get started](https://youtu.be/SL5KKdmvJ1U)
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
@@ -41,16 +42,16 @@ You can refer to the following resources on Git and Github to get started and co
 
 
 ## Prizes 
-- Top 3 contributors 🍁<br/> 
+- Top 3 contributors ❄️<br/> 
 Special prize | Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
 
-- Top 5 female contributors 🍁 <br/>
+- Top 5 female contributors ❄️ <br/>
 Special prize | Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
 
-- Top 10 contributors 🍁 <br/>
+- Top 10 contributors ❄️ <br/>
 Shoutouts on Social Media handles | Swag kits and lots of exciting goodies | Certificate of appreciation
 
-- Top 25 contributors 🍁 <br/>
+- Top 25 contributors ❄️ <br/>
 Swag kits and lots of exciting goodies | Certificate of appreciation
 
 - All the contributors will get a certificate of appreciation for their first successful pull request
