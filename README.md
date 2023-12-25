@@ -1,7 +1,5 @@
 # ar-projects-2023
 
-# AR FILTERS
-
 <p align="center">
   ![image](https://github.com/GDSC-IGDTUW-Autumn-of-Code-2022/ar-projects-2023/assets/89780894/7f05d333-29f7-4950-8ade-342ac1af9c49)
 
